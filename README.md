@@ -20,4 +20,3 @@ No backend or database is required — everything runs right in the browser.
 - **HTML5** – Page structure  
 - **CSS3** – Styling & layout (with animated gradients)  
 - **JavaScript** – EMI calculation logic & input validation  
-**
