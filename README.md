@@ -3,6 +3,7 @@ Loan EMI Calculator is a simple and colorful web application built using HTML, C
 No backend or database is required — everything runs right in the browser.
 
 🚀 Features
+
 🎯 Calculate Monthly EMI instantly
 
 💹 Shows total interest and total payment
@@ -14,6 +15,7 @@ No backend or database is required — everything runs right in the browser.
 📱 Mobile-friendly design
 
 🛠️ Tech Stack
+
 HTML5 – Page structure
 
 CSS3 – Styling & layout (with animated gradients)
