@@ -5,11 +5,11 @@ No backend or database is required — everything runs right in the browser.
 
 🚀 Features
 
-1. Calculate Monthly EMI instantly
+1.Calculate Monthly EMI instantly
 
-2. Shows total interest and total payment
+2.Shows total interest and total payment
 
-3. Beautiful, responsive UI with animated background
+3.Beautiful, responsive UI with animated background
 
 4. Runs completely on frontend (no server needed)
 
