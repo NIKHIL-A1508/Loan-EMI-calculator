@@ -17,7 +17,7 @@ No backend or database is required — everything runs right in the browser.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **HTML5** – Page structure  
 - **CSS3** – Styling & layout (with animated gradients)  
