@@ -1,4 +1,4 @@
-# 🧮 Loan EMI Calculator
+#  Loan EMI Calculator
 
 [🔗 Live Demo on Vercel](https://loan-emi-calculator-xi.vercel.app/)
 
@@ -7,17 +7,17 @@ No backend or database is required — everything runs right in the browser.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎯 Calculate Monthly EMI instantly  
-- 💹 Shows total interest and total payment  
-- 🎨 Beautiful, responsive UI with animated background  
-- ⚡ Runs completely on frontend (no server needed)  
-- 📱 Mobile-friendly design  
+-  Calculate Monthly EMI instantly  
+-  Shows total interest and total payment  
+-  Beautiful, responsive UI with animated background  
+-  Runs completely on frontend (no server needed)  
+-  Mobile-friendly design  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **HTML5** – Page structure  
 - **CSS3** – Styling & layout (with animated gradients)  
